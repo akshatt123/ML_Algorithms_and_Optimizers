@@ -67,12 +67,12 @@ These methods are useful for optimizing quadratic functions and have application
 
 
 ## **Dependencies**
-*numpy
-*matplotlib
-*pandas
-*scikit-learn (for dataset loading and some utilities)
-*seaborn (for visualization)
-*scipy (for optimization routines)
+### numpy
+### matplotlib
+### pandas
+### scikit-learn (for dataset loading and some utilities)
+### seaborn (for visualization)
+### scipy (for optimization routines)
 
 ## **Contributing**
 Contributions to this repository are welcome. If you have any suggestions, improvements, or new algorithm implementations, feel free to open an issue or submit a pull request.
