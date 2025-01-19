@@ -23,7 +23,7 @@ Key components include:
 *Optimization Algorithms: Various techniques like gradient descent and its advanced variants.
 *Loss Functions and Evaluation: Functions for training models and evaluating performance.
 
-**Algorithms Implemented**
+## **Algorithms Implemented**
 ***Linear Regression***
 Linear regression is implemented using gradient descent for optimization. It minimizes the Mean Squared Error (MSE) between predicted and actual values to find the best-fitting line.
 
@@ -39,7 +39,7 @@ KNN is a simple, non-parametric method for classification and regression. It wor
 ***K-Means Clustering***
 This unsupervised algorithm is used for clustering data points into K clusters. The implementation includes steps like assigning data points to clusters and updating centroids.
 
-##**Optimizers Implemented**
+## **Optimizers Implemented**
 ***Gradient Descent***
 This is the basic optimizer used for minimizing the cost function in various machine learning models. It updates parameters iteratively in the direction of the negative gradient.
 
@@ -66,7 +66,7 @@ These methods are useful for optimizing quadratic functions and have application
 
 
 
-**Dependencies**
+## **Dependencies**
 *numpy
 *matplotlib
 *pandas
@@ -74,15 +74,15 @@ These methods are useful for optimizing quadratic functions and have application
 *seaborn (for visualization)
 *scipy (for optimization routines)
 
-**Contributing**
+## **Contributing**
 Contributions to this repository are welcome. If you have any suggestions, improvements, or new algorithm implementations, feel free to open an issue or submit a pull request.
 
-**How to contribute:**
+## **How to contribute:**
 Fork the repository.
 Create a new branch: git checkout -b feature-name.
 Make your changes and commit them: git commit -m "Add feature-name".
 Push to your branch: git push origin feature-name.
 Submit a pull request.
 
-**License**
+## **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
