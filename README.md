@@ -3,7 +3,7 @@
 
 This repository contains the implementation of various Machine Learning (ML) algorithms and optimization techniques from scratch. These implementations provide a detailed understanding of how these algorithms and optimizers work, as well as their mathematical foundations. The repository includes popular ML algorithms like Linear Regression, Logistic Regression, Support Vector Machines (SVM), and various optimization methods such as Gradient Descent, Adam, and others.
 
-##**Table of Contents**
+## **Table of Contents**
 
 *Overview
 *Algorithms Implemented
@@ -14,7 +14,7 @@ This repository contains the implementation of various Machine Learning (ML) alg
 
 
 
-##**Overview**
+## **Overview**
 This repository is a collection of implemented machine learning algorithms and optimizers. These are written in Python and include standard methods used in ML and optimization. The code is meant to be educational and demonstrates the implementation of key concepts from scratch, without using high-level libraries like Scikit-learn, TensorFlow, or PyTorch.
 
 Key components include:
@@ -23,7 +23,7 @@ Key components include:
 *Optimization Algorithms: Various techniques like gradient descent and its advanced variants.
 *Loss Functions and Evaluation: Functions for training models and evaluating performance.
 
-##**Algorithms Implemented**
+**Algorithms Implemented**
 ***Linear Regression***
 Linear regression is implemented using gradient descent for optimization. It minimizes the Mean Squared Error (MSE) between predicted and actual values to find the best-fitting line.
 
@@ -66,7 +66,7 @@ These methods are useful for optimizing quadratic functions and have application
 
 
 
-##**Dependencies**
+**Dependencies**
 *numpy
 *matplotlib
 *pandas
@@ -74,15 +74,15 @@ These methods are useful for optimizing quadratic functions and have application
 *seaborn (for visualization)
 *scipy (for optimization routines)
 
-##**Contributing**
+**Contributing**
 Contributions to this repository are welcome. If you have any suggestions, improvements, or new algorithm implementations, feel free to open an issue or submit a pull request.
 
-##**How to contribute:**
+**How to contribute:**
 Fork the repository.
 Create a new branch: git checkout -b feature-name.
 Make your changes and commit them: git commit -m "Add feature-name".
 Push to your branch: git push origin feature-name.
 Submit a pull request.
 
-##**License**
+**License**
 This project is licensed under the MIT License - see the LICENSE file for details.
