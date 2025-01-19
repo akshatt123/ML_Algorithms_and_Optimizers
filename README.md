@@ -5,12 +5,12 @@ This repository contains the implementation of various Machine Learning (ML) alg
 
 ## **Table of Contents**
 
-*Overview
-*Algorithms Implemented
-*Optimizers Implemented
-*Dependencies
-*Contributing
-*License
+* Overview
+* Algorithms Implemented
+* Optimizers Implemented
+* Dependencies
+* Contributing
+* License
 
 
 
@@ -67,10 +67,10 @@ These methods are useful for optimizing quadratic functions and have application
 
 
 ## **Dependencies**
-##### numpy
-##### matplotlib
-##### pandas
-##### scikit-learn (for dataset loading and some utilities)
+* numpy
+* matplotlib
+* pandas
+* scikit-learn (for dataset loading and some utilities)
 * seaborn (for visualization)
 * scipy (for optimization routines)
 
