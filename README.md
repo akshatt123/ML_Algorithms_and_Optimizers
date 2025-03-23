@@ -74,15 +74,4 @@ These methods are useful for optimizing quadratic functions and have application
 * seaborn (for visualization)
 * scipy (for optimization routines)
 
-## **Contributing**
-Contributions to this repository are welcome. If you have any suggestions, improvements, or new algorithm implementations, feel free to open an issue or submit a pull request.
 
-## **How to contribute:**
-* Fork the repository.
-* Create a new branch: git checkout -b feature-name.
-* Make your changes and commit them: git commit -m "Add feature-name".
-* Push to your branch: git push origin feature-name.
-* Submit a pull request.
-
-## **License**
-This project is licensed under the MIT License - see the LICENSE file for details.
