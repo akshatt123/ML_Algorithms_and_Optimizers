@@ -9,8 +9,6 @@ This repository contains the implementation of various Machine Learning (ML) alg
 * Algorithms Implemented
 * Optimizers Implemented
 * Dependencies
-* Contributing
-* License
 
 
 
